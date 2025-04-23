@@ -1,9 +1,9 @@
 sample nb.ipynb
 dataset_and_corpora/augmented_train.csv
 dataset_and_corpora/augmented_train_senti.csv
-dataset_and_corpora/glove_vectorizer.pkl
 dataset_and_corpora/test.csv
-dataset_and_corpora/tfidf_vectorizer.pkl
 dataset_and_corpora/train.csv
 dataset_and_corpora/WELFake_Dataset.csv
 glove.6B.100d.txt
+features/tfidf_vectorizer.pkl
+features/glove_vectorizer.pkl
