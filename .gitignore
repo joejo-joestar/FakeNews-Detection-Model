@@ -19,3 +19,8 @@ tfidf_chi2_features.pkl
 tfidf_features.pkl
 tfidf_features_test.pkl
 tfidf_info_gain_features.pkl
+
+# Model Files
+lgbm_model.txt
+lr_model.pth
+rf_model.pkl
