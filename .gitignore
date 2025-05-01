@@ -1,9 +1,21 @@
+# Reference Notebook
 sample nb.ipynb
-dataset_and_corpora/augmented_train.csv
-dataset_and_corpora/augmented_train_senti.csv
-dataset_and_corpora/test.csv
-dataset_and_corpora/train.csv
-dataset_and_corpora/WELFake_Dataset.csv
+
+# Dataset Files
+augmented_train.csv
+augmented_train_senti.csv
+test.csv
+train.csv
+WELFake_Dataset.csv
+cleaned_test.csv
+
+# Pre-trained Embeddings
 glove.6B.100d.txt
-features/tfidf_vectorizer.pkl
-features/glove_vectorizer.pkl
+
+glove_features.pkl
+glove_pca_features.pkl
+tfidf_bow_features.pkl
+tfidf_chi2_features.pkl
+tfidf_features.pkl
+tfidf_features_test.pkl
+tfidf_info_gain_features.pkl
