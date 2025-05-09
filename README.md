@@ -4,7 +4,7 @@
 
 | S. No |    ID No.     | Name             |
 | ----: | :-----------: | :--------------- |
-|    1. | 2022A7PS0003U | Yusra Hakim      |
+|    1. | 2022A7PS0004U | Yusra Hakim      |
 |    2. | 2022A7PS0019U | Joseph Cijo      |
 |    3. | 2022A7PS0031U | Ritvik Bhatnagar |
 
