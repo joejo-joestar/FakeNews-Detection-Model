@@ -1,12 +1,19 @@
-# 📰 Fake News Detection Using Ensemble Learning
+<h1 align="center"> 📰 Fake News Detection Using Ensemble Learning</h1>
+
+<p align = "center">
+  <img src="assets/pixnewscar.png" alt="Coding Car" title="Coding Car" width="128">
+</p>
 
 ---
+<p align="center">
 
 | S. No |    ID No.     | Name             |
 | ----: | :-----------: | :--------------- |
 |    1. | 2022A7PS0004U | Yusra Hakim      |
 |    2. | 2022A7PS0019U | Joseph Cijo      |
 |    3. | 2022A7PS0031U | Ritvik Bhatnagar |
+
+</p>
 
 This Repository hosts the model building part for the project in Data Mining (CS F415) course. It contains the code used for preparing the ensemble model using the dataset mentioned below.
 
